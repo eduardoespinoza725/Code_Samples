@@ -1,7 +1,0 @@
-# ninja log v5
-1	988	1661972905695521356	CMakeFiles/Linked_List.dir/test_list.cpp.o	9d3f98a3e0dedfbf
-0	991	1661972905695403449	CMakeFiles/Linked_List.dir/main.cpp.o	ece3443060684c6e
-3	58	1661972947652446005	CMakeFiles/Linked_List.dir/test_list.cpp.o	9d3f98a3e0dedfbf
-3	881	1661973039742605645	CMakeFiles/Linked_List.dir/main.cpp.o	ece3443060684c6e
-3	1059	1661973061400841088	CMakeFiles/Linked_List.dir/main.cpp.o	ece3443060684c6e
-5	954	1661973069069734018	CMakeFiles/Linked_List.dir/main.cpp.o	ece3443060684c6e

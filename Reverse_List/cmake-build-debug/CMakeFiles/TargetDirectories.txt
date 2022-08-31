@@ -1,3 +1,0 @@
-/Users/eduardo/Desktop/School/DSA/Linked_List/Reverse_List/cmake-build-debug/CMakeFiles/Reverse_List.dir
-/Users/eduardo/Desktop/School/DSA/Linked_List/Reverse_List/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/eduardo/Desktop/School/DSA/Linked_List/Reverse_List/cmake-build-debug/CMakeFiles/rebuild_cache.dir
