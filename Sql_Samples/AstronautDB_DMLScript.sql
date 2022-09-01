@@ -23,11 +23,11 @@ VALUES
 INSERT INTO eespinoz_Space_Mission
 (description, teamLeader, agencyID)
 VALUES
-('Fly to the moon', 									   'Kent Shannen',     1),
+('Fly to the moon', 			         'Kent Shannen',     1),
 ('Observe sun',                          'Zhen Shu',         2),
-('Observe distant planet',							 'Izumi Yuko',       3),
-('Collect data on distant stars', 			 'Samir Mohan',      4),
-('Test rocket fuel efficency', 					 'Vlado Hans-Peter', 5),
+('Observe distant planet',				 'Izumi Yuko',       3),
+('Collect data on distant stars', 		 'Samir Mohan',      4),
+('Test rocket fuel efficency', 			 'Vlado Hans-Peter', 5),
 ('Successfully land unmaned rocket',     'Elliot Bryon',     6),
 ('Send first private citizens to space', 'Veronica Aynura',  7),
 ('Gather data on climate change',        'Shuhrat Candelas', 8),
@@ -38,8 +38,8 @@ VALUES
 INSERT INTO eespinoz_Astronaut
 (fName, lName, rank, age, dateEnlisted, completedMissions, agencyID)
 VALUES
-('Alessia',  'Tjeerd',  	   'Command Pilot',        30, '2018-05-25',  21,    9),
-('Ranulph',  'Dimos', 		   'Commander',            45, '2019-10-12',  10,    10),
+('Alessia',  'Tjeerd',  	 'Command Pilot',        30, '2018-05-25',  21,    9),
+('Ranulph',  'Dimos', 		 'Commander',            45, '2019-10-12',  10,    10),
 ('Zhen',     'Shu',          'Misson Specialist',    34, '2017-11-11',  13,    2),
 ('Kent',     'Shannen',      'Spacecraft Commander', 29, '2021-02-29',  5,     1),
 ('Elliot',   'Bryon',        'Pilot',                53, '2010-04-30',  102,   5),
