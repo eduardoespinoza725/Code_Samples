@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/eduardo/Desktop/School/DSA/Linked_List/Reverse_List/cmake-build-debug"
+			"value" : "/Users/eduardo/Desktop/Code_Samples/LeetCode_Solutions/Reverse_List/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/eduardo/Desktop/School/DSA/Linked_List/Reverse_List"
+			"value" : "/Users/eduardo/Desktop/Code_Samples/LeetCode_Solutions/Reverse_List"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1087,7 +1087,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/eduardo/Desktop/School/DSA/Linked_List/Reverse_List/cmake-build-debug"
+			"value" : "/Users/eduardo/Desktop/Code_Samples/LeetCode_Solutions/Reverse_List/cmake-build-debug"
 		},
 		{
 			"name" : "Reverse_List_IS_TOP_LEVEL",
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/eduardo/Desktop/School/DSA/Linked_List/Reverse_List"
+			"value" : "/Users/eduardo/Desktop/Code_Samples/LeetCode_Solutions/Reverse_List"
 		}
 	],
 	"kind" : "cache",

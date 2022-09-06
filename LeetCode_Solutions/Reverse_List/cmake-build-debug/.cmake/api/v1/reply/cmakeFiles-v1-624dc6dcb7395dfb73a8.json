@@ -1143,8 +1143,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/Users/eduardo/Desktop/School/DSA/Linked_List/Reverse_List/cmake-build-debug",
-		"source" : "/Users/eduardo/Desktop/School/DSA/Linked_List/Reverse_List"
+		"build" : "/Users/eduardo/Desktop/Code_Samples/LeetCode_Solutions/Reverse_List/cmake-build-debug",
+		"source" : "/Users/eduardo/Desktop/Code_Samples/LeetCode_Solutions/Reverse_List"
 	},
 	"version" : 
 	{

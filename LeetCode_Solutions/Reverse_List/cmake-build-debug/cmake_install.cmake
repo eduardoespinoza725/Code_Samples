@@ -1,4 +1,4 @@
-# Install script for directory: /Users/eduardo/Desktop/School/DSA/Linked_List/Reverse_List
+# Install script for directory: /Users/eduardo/Desktop/Code_Samples/LeetCode_Solutions/Reverse_List
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/eduardo/Desktop/School/DSA/Linked_List/Reverse_List/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/eduardo/Desktop/Code_Samples/LeetCode_Solutions/Reverse_List/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
